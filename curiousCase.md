@@ -26,9 +26,7 @@ Nucleus Sampling: truncating the unreliable tail of prob distribution and than s
 
 
 - maximization is inappropriate
-
 - current best models still have unreliable tails to be truncated
-
 - nucleus sampling is 'good' and diverse
 
 #### Main body: 
