@@ -3,10 +3,18 @@
 - mainly due to decoding algorithms and is not specific to neural nets.
 - still produce repetitive sequence even if we don't impose decoding algorithms (i.e. sampling)
 
-### My ideas:
+### My ideas & Q:
 
 - there are similiar states for models
 
+- [ ] 
+- [x]  sampling algorithms (moved out)
+- [x]  more details about beam search
+
+[**Beam search**](https://www.notion.so/Beam-search-055b946d3546483eb1d002aaa1eb4c6b)
+
+- [ ]  why "once the chain enters any state in a cycle there is a small chance of leaving it"? How to 'define' the cycle?
+- [ ]  can transformers also be approximated?
 ### N-gram LM
 
 > EOS: end of sequence?
